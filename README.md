@@ -1,8 +1,8 @@
 # Historical Astronomical Models
 
-Interactive web visualizations of historical astronomical models developed with **JavaScript and HTML5 Canvas** for the web interface of the **Institute for the History of Science, University of Tehran**.
+Interactive web visualizations of historical astronomical models created with **JavaScript and HTML5 Canvas** and deployed on the website of the **Institute for the History of Science, University of Tehran**.
 
-The project explores how historical astronomical systems can be represented through lightweight, animated web-based visualizations.
+The project explores how historical astronomical systems can be represented through lightweight, animated, web-based visualizations.
 
 ## Models
 
@@ -14,6 +14,16 @@ The current version includes simplified visual representations of four historica
 * **Ibn al-Shāṭir** — Double epicycle
 
 Each model is rendered dynamically in the browser using the HTML5 Canvas API.
+
+## Institutional Website
+
+The visualizations have been implemented and published on the website of the **Institute for the History of Science, University of Tehran**:
+
+**https://utihs.ut.ac.ir/**
+
+The visualizations are currently placed at the top of the relevant web page as an interactive introduction to historical astronomical models.
+
+In addition to this project, I have contributed to the **design, redesign, content presentation, and development of internal pages and interface components** across different sections of the institute's website.
 
 ## Technical Approach
 
@@ -59,13 +69,13 @@ This project sits at the intersection of:
 * Web-based Visualization
 * Computational Representation of Historical Knowledge
 
-It is an example of using web technologies to create new ways of presenting and communicating historical scientific knowledge.
+It demonstrates how web technologies can be used to create new ways of presenting and communicating historical scientific knowledge.
 
 ## AI-Assisted Development
 
 Generative AI was used as an **AI-assisted programming and prototyping tool** during the development of the project.
 
-The historical subject matter, conceptual direction, visual requirements, integration into the institutional website, testing, and final review were guided by the author.
+The historical subject matter, conceptual direction, visual requirements, website implementation, testing, and final review were guided by the author.
 
 The project therefore also represents an example of **AI-assisted development in Digital Humanities and History of Science**.
 
